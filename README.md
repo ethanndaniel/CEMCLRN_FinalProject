@@ -1,4 +1,4 @@
-**CEMCLRN FINAL PROJECT**
+# **CEMCLRN FINAL PROJECT**
 CSE: Machine Learning (CEMCLRN), 1st Term AY 2026-2027 Group 2, Section S03
 
 Members:
